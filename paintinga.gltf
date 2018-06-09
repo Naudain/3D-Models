@@ -1,0 +1,368 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        300.04989624023438,
+        105.25201416015625,
+        233.17999267578125
+      ],
+      "min": [
+        0,
+        0.93402099609375,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9592406153678894,
+        0.99998348951339722,
+        0.9999854564666748
+      ],
+      "min": [
+        -0.99999845027923584,
+        -0.99480247497558594,
+        -0.99877321720123291
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9998021125793457,
+        0.95204776525497437,
+        0.97919332981109619,
+        -1
+      ],
+      "min": [
+        -0.99970477819442749,
+        -0.93468606472015381,
+        -0.97395896911621094,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99687600135803223,
+        0.99609100818634033
+      ],
+      "min": [
+        0.0021343699190765619,
+        0.0021343699190765619
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 376149,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 52183,
+      "max": [
+        300.08990478515625,
+        90.693023681640625,
+        236.01100158691406
+      ],
+      "min": [
+        0.0229949951171875,
+        0,
+        2.7829971313476562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2198964,
+      "componentType": 5126,
+      "count": 52183,
+      "max": [
+        0.99999761581420898,
+        0.99936962127685547,
+        0.9999854564666748
+      ],
+      "min": [
+        -0.99899697303771973,
+        -0.99942511320114136,
+        -0.99999821186065674
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 52183,
+      "max": [
+        0.9999353289604187,
+        0.94399970769882202,
+        0.99826657772064209,
+        1
+      ],
+      "min": [
+        -0.99989199638366699,
+        -0.99402356147766113,
+        -0.9990355372428894,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 52183,
+      "max": [
+        0.99147099256515503,
+        0.99607002735137939
+      ],
+      "min": [
+        0.00065726001048460603,
+        0.00050675898091867566
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1504596,
+      "componentType": 5125,
+      "count": 289731,
+      "max": [
+        52182
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Hydro3D Solution (https://sketchfab.com/try)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/b5cfecae29ed443f8b91798eb2ba4277",
+      "title": "Painting Seaside"
+    },
+    "generator": "Sketchfab-3.18.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2663520,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 941720,
+      "byteOffset": 2663520,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2825160,
+      "byteOffset": 3605240,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1883440,
+      "byteOffset": 6430400,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8313840,
+      "uri": "paintinga_scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "paintinga_material_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.98891866207122803,
+        -0.13499854505062103,
+        0.061767775565385818,
+        0,
+        0.14728876948356628,
+        0.944297194480896,
+        -0.29429382085800171,
+        0,
+        -0.018597900867462158,
+        0.30013033747673035,
+        0.95371687412261963,
+        0,
+        49.976158142089844,
+        -26.92047119140625,
+        -97.572761535644531,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -203.29899597167969,
+        -395.67800903320312,
+        -115.93199920654297,
+        1
+      ],
+      "name": "Painting Seaside 3.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
